@@ -1,0 +1,4 @@
+data/org.gbw.InventoryOMatic.desktop.in
+data/org.gbw.InventoryOMatic.appdata.xml.in
+data/org.gbw.InventoryOMatic.gschema.xml
+src/gtkinventoryproject-window.ui
